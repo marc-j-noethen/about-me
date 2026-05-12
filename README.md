@@ -5,27 +5,33 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Target-DevSecOps_Engineer-0f172a?style=flat&logo=githubactions&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Target-Security_Analyst-0b3b66?style=flat&logo=shield&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Secure_Automation_%26_Detection-0077b6?style=flat"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/marc-j-nöthen-b201a315b/">
     <img src="https://img.shields.io/badge/LinkedIn-Marc%20Nöthen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-noethen/cybersteps-edu-paths">
+  <a href="https://github.com/marc-j-noethen/cybersteps-edu-paths">
     <img src="https://img.shields.io/badge/Lernjournal-cybersteps--edu--paths-00b4d8?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-noethen/cs-edu-path-modul-1">
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-1">
     <img src="https://img.shields.io/badge/Modul%201-cs--edu--path--modul--1-0077b6?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-noethen/cs-edu-path-modul-2">
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-2">
     <img src="https://img.shields.io/badge/Modul%202-cs--edu--path--modul--2-0077b6?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-noethen/cs-edu-path-modul-3">
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-3">
     <img src="https://img.shields.io/badge/Modul%203-cs--edu--path--modul--3-0077b6?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-noethen/cs-edu-path-projects">
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-projects">
     <img src="https://img.shields.io/badge/Projekte-cs--edu--path--projects-0096c7?style=flat&logo=github&logoColor=white"/>
   </a>
   &nbsp;
@@ -39,6 +45,8 @@
 Ausgebildeter **Fachinformatiker Anwendungsentwicklung (IHK)**, jetzt in der Vollzeit-Spezialisierung bei [Cybersteps](https://cybersteps.de) — mit klarem Ziel: **DevSecOps Engineer** und **Security Analyst**. Aktuell in Modul 3.
 
 Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Python Projekte, Full Stack Open, und eigene Python-Tools.
+
+**Aktueller Fokus:** sichere Automatisierung, Python-gestützte Analyse, GitHub Actions, CI/CD Security, DFIR und der Aufbau eines belastbaren DevSecOps-Profils mit sichtbaren Projekten.
 
 > "Es gibt nur zwei Arten von Unternehmen: Diejenigen, die gehackt wurden, und diejenigen, die noch nicht wissen, dass sie gehackt wurden." – John Chambers
 
@@ -64,13 +72,13 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 
 ## 🔐 Cybersteps — Was ich bisher gelernt habe
 
-> Vollständige Notizen, Übungen & Zusammenfassungen: [`cybersteps-edu-paths`](https://github.com/marc-noethen/cybersteps-edu-paths)
+> Vollständige Notizen, Übungen & Zusammenfassungen: [`cybersteps-edu-paths`](https://github.com/marc-j-noethen/cybersteps-edu-paths)
 
 **Direkte Repos:**
-- [`cs-edu-path-modul-1`](https://github.com/marc-noethen/cs-edu-path-modul-1)
-- [`cs-edu-path-modul-2`](https://github.com/marc-noethen/cs-edu-path-modul-2)
-- [`cs-edu-path-modul-3`](https://github.com/marc-noethen/cs-edu-path-modul-3)
-- [`cs-edu-path-projects`](https://github.com/marc-noethen/cs-edu-path-projects)
+- [`cs-edu-path-modul-1`](https://github.com/marc-j-noethen/cs-edu-path-modul-1)
+- [`cs-edu-path-modul-2`](https://github.com/marc-j-noethen/cs-edu-path-modul-2)
+- [`cs-edu-path-modul-3`](https://github.com/marc-j-noethen/cs-edu-path-modul-3)
+- [`cs-edu-path-projects`](https://github.com/marc-j-noethen/cs-edu-path-projects)
 
 | Modul | Themen |
 |---|---|
@@ -88,13 +96,16 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 
 ## 🚀 Projekte
 
+Diese Projekte zeigen, wie ich **Development und Security praktisch verbinde**: Automatisierung, Analyse, Tooling und saubere technische Dokumentation.
+
 | Projekt | Beschreibung | Stack |
 |---|---|---|
-| [InsightLog\_MJN](https://github.com/marc-noethen/InsightLog_MJN) | Python-Tool zum Parsen und Analysieren von Logs — erkennt verdächtige Muster und macht Rohdaten lesbar | Python |
-| [file\_mover](https://github.com/marc-noethen) | Automatisierungstool: verschiebt rekursiv Dateien aus Unterordnern, mit Duplikat-Handling | Python |
-| [Ordner-ASCII-Tree](https://github.com/marc-noethen) | Generiert ASCII-Baumstruktur eines Verzeichnisses als Textdatei | Python |
-| [taskflow](https://github.com/marc-noethen) | Smart Task Manager — aus dem Python Mega Course | Python |
-| [Full Stack Open](https://github.com/marc-noethen) | Kurs der Uni Helsinki: React, Node.js, GraphQL, TypeScript, Docker, CI/CD | JS / TS |
+| [InsightLog\_MJN](https://github.com/marc-j-noethen/InsightLog_MJN) | Security-orientiertes Python-Tool für Log Parsing und Mustererkennung, um verdächtige Aktivitäten schneller sichtbar zu machen | Python, Log Analysis |
+| [CySec-Dashboard](https://github.com/marc-j-noethen/CySec-Dashboard) | Eigenes Dashboard für Security-Tools und Workflows als sichtbares Frontend-Projekt mit Cybersecurity-Bezug | HTML, Python |
+| [file\_mover](https://github.com/marc-j-noethen) | Automatisierungstool zum rekursiven Verschieben von Dateien mit Duplikat-Handling und Fokus auf robuste Dateiverarbeitung | Python, Automation |
+| [Ordner-ASCII-Tree](https://github.com/marc-j-noethen) | Utility zum Erzeugen einer lesbaren Verzeichnisstruktur als Textdatei für Dokumentation und schnelle Analyse | Python |
+| [taskflow](https://github.com/marc-j-noethen) | Smart Task Manager aus dem Python Mega Course mit Fokus auf saubere Struktur, Logik und produktives Tooling | Python |
+| [Full Stack Open](https://github.com/marc-j-noethen) | Kontinuierlicher Ausbau von React-, Node.js-, GraphQL-, TypeScript-, Docker- und CI/CD-Kenntnissen | JavaScript, TypeScript |
 | [Networking Projekt](https://github.com/PabloPAF/NetworkigP1_B_Wazzap) | Chat-App als Netzwerkprojekt (Kollaboration) | Python |
 
 ---
@@ -110,7 +121,7 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 **AI & Engineering**
 `Designing ML Systems (Chip Huyen)` · `AI Engineering` · `The Pragmatic Programmer` · `Clean Coder` · `Refactoring (Fowler)`
 
-> Vollständige Leseliste mit Notizen: [`reading-notes`](https://github.com/marc-noethen) *(coming soon)*
+> Vollständige Leseliste mit Notizen: [`reading-notes`](https://github.com/marc-j-noethen) *(coming soon)*
 
 ---
 
@@ -184,12 +195,12 @@ Mein Stack verbindet **Softwareentwicklung, Automatisierung und Security Enginee
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marc-noethen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-noethen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marc-j-noethen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=cdd6f4"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc-j-noethen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=cdd6f4"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-noethen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="480"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marc-j-noethen&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="480"/>
 </p>
 
 ---
