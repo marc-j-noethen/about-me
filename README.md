@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Marc%20Nöthen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-j-noethen/cybersteps-edu-paths">
-    <img src="https://img.shields.io/badge/Lernjournal-cybersteps--edu--paths-00b4d8?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-1">
     <img src="https://img.shields.io/badge/Modul%201-cs--edu--path--modul--1-0077b6?style=flat&logo=github&logoColor=white"/>
   </a>
