@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=180&section=header&text=Marc%20Nöthen&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Future%20DevSecOps%20·%20Security%20Analyst%20·%20Learning%20in%20Public&descSize=15&descAlignY=58&descColor=90e0ef" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=650&lines=Fachinformatiker+AE+%E2%9C%85+%7C+DevSecOps+%26+Security+Analyst;Vollzeit-Ausbildung+%40+Cybersteps+%E2%80%94+Modul+3;Python+%7C+Automation+%7C+Security+Engineering+%7C+DFIR;Ich+lerne+%C3%B6ffentlich+%E2%80%94+jeden+Tag." alt="Typing SVG" />
+  <strong>Fachinformatiker Anwendungsentwicklung (IHK) · DevSecOps Engineer in Training · Security Analyst Track</strong><br/>
+  <sub>Cybersteps Modul 3 · Python Automation · DFIR · Secure CI/CD · Learning in Public</sub>
 </p>
 
 <p align="center">
@@ -10,28 +11,24 @@
   <img src="https://img.shields.io/badge/Target-Security_Analyst-0b3b66?style=flat&logo=shield&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Secure_Automation_%26_Detection-0077b6?style=flat"/>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/marc-j-nöthen-b201a315b/">
     <img src="https://img.shields.io/badge/LinkedIn-Marc%20Nöthen-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-1">
-    <img src="https://img.shields.io/badge/Modul%201-cs--edu--path--modul--1-0077b6?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-2">
-    <img src="https://img.shields.io/badge/Modul%202-cs--edu--path--modul--2-0077b6?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-3">
-    <img src="https://img.shields.io/badge/Modul%203-cs--edu--path--modul--3-0077b6?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/marc-j-noethen/cs-edu-path-projects">
-    <img src="https://img.shields.io/badge/Projekte-cs--edu--path--projects-0096c7?style=flat&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Standort-Leipzig%2C%20DE-555?style=flat&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-1"><strong>Modul 1</strong></a>
+  ·
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-2"><strong>Modul 2</strong></a>
+  ·
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-modul-3"><strong>Modul 3</strong></a>
+  ·
+  <a href="https://github.com/marc-j-noethen/cs-edu-path-projects"><strong>Projekte</strong></a>
 </p>
 
 ---
