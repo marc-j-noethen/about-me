@@ -37,7 +37,7 @@
 
 Ausgebildeter **Fachinformatiker Anwendungsentwicklung (IHK)**, jetzt in der Vollzeit-Spezialisierung bei [Cybersteps](https://cybersteps.de) — mit klarem Ziel: **DevSecOps Engineer** und **Security Analyst**. Aktuell in Modul 3.
 
-Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Python Projekte, Full Stack Open, und eigene Python-Tools.
+Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode kombiniert mit KI-generierten Audio-Zusammenfassungen, und einem eigenen "Brain-Extraction"-Prozess der Theorie in anwendbares Wissen überführt. Parallel dazu: 30+ Fachbücher, Python Projekte, Full Stack Projekte, AI Projekte.
 
 **Aktueller Fokus:** sichere Automatisierung, Python-gestützte Analyse, GitHub Actions, CI/CD Security, DFIR und der Aufbau eines belastbaren DevSecOps-Profils mit sichtbaren Projekten.
 
@@ -71,7 +71,6 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 - [`cs-edu-path-modul-1`](https://github.com/marc-j-noethen/cs-edu-path-modul-1)
 - [`cs-edu-path-modul-2`](https://github.com/marc-j-noethen/cs-edu-path-modul-2)
 - [`cs-edu-path-modul-3`](https://github.com/marc-j-noethen/cs-edu-path-modul-3)
-- [`cs-edu-path-projects`](https://github.com/marc-j-noethen/cs-edu-path-projects)
 
 | Modul | Themen |
 |---|---|
@@ -85,23 +84,6 @@ Ich lerne mit System: Obsidian als Wissensdatenbank, die Birkenbihl-Methode komb
 - Übungen + eigene Lösungen
 - Wochenprojekt zur Anwendung
 
----
-
-## 🚀 Projekte
-
-Diese Projekte zeigen, wie ich **Development und Security praktisch verbinde**: Automatisierung, Analyse, Tooling und saubere technische Dokumentation.
-
-| Projekt | Beschreibung | Stack |
-|---|---|---|
-| [InsightLog\_MJN](https://github.com/marc-j-noethen/InsightLog_MJN) | Security-orientiertes Python-Tool für Log Parsing und Mustererkennung, um verdächtige Aktivitäten schneller sichtbar zu machen | Python, Log Analysis |
-| [CySec-Dashboard](https://github.com/marc-j-noethen/CySec-Dashboard) | Eigenes Dashboard für Security-Tools und Workflows als sichtbares Frontend-Projekt mit Cybersecurity-Bezug | HTML, Python |
-| [file\_mover](https://github.com/marc-j-noethen) | Automatisierungstool zum rekursiven Verschieben von Dateien mit Duplikat-Handling und Fokus auf robuste Dateiverarbeitung | Python, Automation |
-| [Ordner-ASCII-Tree](https://github.com/marc-j-noethen) | Utility zum Erzeugen einer lesbaren Verzeichnisstruktur als Textdatei für Dokumentation und schnelle Analyse | Python |
-| [taskflow](https://github.com/marc-j-noethen) | Smart Task Manager aus dem Python Mega Course mit Fokus auf saubere Struktur, Logik und produktives Tooling | Python |
-| [Full Stack Open](https://github.com/marc-j-noethen) | Kontinuierlicher Ausbau von React-, Node.js-, GraphQL-, TypeScript-, Docker- und CI/CD-Kenntnissen | JavaScript, TypeScript |
-| [Networking Projekt](https://github.com/PabloPAF/NetworkigP1_B_Wazzap) | Chat-App als Netzwerkprojekt (Kollaboration) | Python |
-
----
 
 ## 📚 Was ich gerade lese
 
